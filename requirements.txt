@@ -1,5 +1,1 @@
-sentence_transformers==2.2.2
-pandas
-chardet
-detect_delimiter
-anvil-uplink
+pyramid==2.0
